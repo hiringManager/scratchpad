@@ -1,0 +1,4 @@
+# Base Python dependencies
+requests
+pandas
+
